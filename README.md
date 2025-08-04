@@ -2,20 +2,23 @@
  
  
 <img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
+
 </div>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=Rkb-Hasan&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Rakib</h1>
+
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=Rkb-Hasan&label=Profile%20views&color=0e75b6&style=flat" alt="Rokibul_Hasan" /> </span>
+
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Rokib</h1>
 <h3 align="center">A passionate Front-End Developer from 🇧🇩</h3>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rkb-Hasan&" alt="Rkb-Hasan" /></p>
 <br>
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I've completed a Front-End course at [Programming Hero](https://www.programming-hero.com/)
 
 - 💬 Talk to me about React, JavaScript, Tailwind_css etc.
- - 📫 Reach me at **hasanrokib413@gmail.com**  
+- 📫 Reach me at **hasanrokib413@gmail.com**
 
 <br>
   
@@ -24,7 +27,7 @@
 <a href="https://www.linkedin.com/in/hasan-rokibul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rakib" height="30" width="40" /></a>    
 <a href="https://www.facebook.com/profile.php?id=100055733994562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rakib" height="30" width="40" /></a>  
 <a href="https://www.instagram.com/hass___ssan?igsh=YzljYTk1ODg3Zg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rakib" height="30" width="40" /></a>
-</p>  
+</p>
 
 <br>
 <h2>Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
