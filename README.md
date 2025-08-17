@@ -5,7 +5,7 @@
 
 </div>
 
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=Rkb-Hasan&label=Profile%20views&color=0e75b6&style=flat" alt="Rokibul_Hasan" /> </span>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rkb-Hasan&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Rokib</h1>
 <h3 align="center">A passionate Front-End Developer from 🇧🇩</h3>  
