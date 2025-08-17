@@ -5,7 +5,7 @@
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rkb-Hasan&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rkb-Hasan&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Rokib</h1>
 <h3 align="center">A passionate Front-End Developer from 🇧🇩</h3>  
